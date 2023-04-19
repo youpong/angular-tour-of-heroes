@@ -7,7 +7,7 @@ import { Hero } from '../hero';
   styleUrls: ['./heroes.component.css']
 })
 export class HeroesComponent {
-  hero: Hero  = {
+  hero: Hero = {
     id: 1,
     name: 'Windstorm'
   };
