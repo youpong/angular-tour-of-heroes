@@ -1,5 +1,5 @@
-## Update npm packages
+## Updates your workspace and its dependencies.
 
 ```
-$ npm update
+$ ng update
 ```
